@@ -22,9 +22,3 @@ for nfiring in fd:
     for st in state_times:
         plt.axvline(x=st, color="red")
     plt.show()
-
-# slopes?????
-# DRAW LINES BETWEEN PTS AT NEURON HITS
-# regions of slope similarity
-# need a way to cross-reference between neurons
-
